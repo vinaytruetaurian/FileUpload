@@ -1,0 +1,5 @@
+#Spring and Java local files #
+.springBeans
+.settings
+.project
+.classpath
